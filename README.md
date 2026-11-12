@@ -1,17 +1,19 @@
-👋 Hello there! \n
+👋 Hello there!
 I'm Piyush Raj Anand 💻, a Computer Science undergraduate at ITER, SOA University.
-I'm passionate about software development, problem-solving, and exploring the world of AI/ML. I enjoy building real-world applications, experimenting with new technologies, and turning ideas into something useful. 🚀
-🌱 Currently learning DSA, Machine Learning & System Design
-💻 Building Full-Stack and AI-powered applications
-🧠 Exploring Java, Python, React, Node.js & Django
-🚀 Working on UniversalNav, StaleGuard AI & Universal Car Hub
-🎯 Always curious, always learning, always building
+🧠 Passionate about software development, problem-solving, and exploring AI/ML.
+🚀 Currently learning DSA, Machine Learning and System Design.
+💻 Building full-stack and AI-powered applications.
+⚡ Exploring Java, Python, React, Node.js and Django.
+🛠️ Working on UniversalNav, StaleGuard AI and Universal Car Hub.
 
 🐯 A Little About Me
-🔭 I love creating projects that solve real-world problems.
+
+💡 I love creating projects that solve real-world problems.
 🤝 Open to collaborating on interesting development projects.
-💡 Interested in Software Engineering, AI/ML and Backend Development.
-⚡ Fun fact: I believe consistency beats perfection!
+🎯 Interested in Software Engineering, AI/ML and Backend Development.
+⚡ I believe consistency beats perfection!
+
+
 
 
 # 💻 Tech Stack:
