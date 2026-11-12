@@ -1,5 +1,10 @@
-# 💫 About Me:
-💚 About Me<br><br>🔭 Currently building UniversalNav, AI-powered applications & Full-Stack projects<br>🤝 Open to collaborating on Innovative Projects, AI/ML & Open-Source Development<br>🧠 Exploring DSA, Machine Learning, Deep Learning & Backend Engineering<br>🌱 Currently learning Advanced Java, Python, React, System Design & AI<br>💬 Let's talk about Problem Solving, Software Development, AI & Technology<br>🎯 Working towards becoming a Skilled Software Engineer<br>⚡ Fun fact: I love turning crazy ideas into real-world projects! 🚀🐯<br><br>
+🐯 About Me
+Hey! I'm Piyush Raj Anand, a Computer Science undergraduate at ITER, SOA University.
+💻 Building full-stack applications and AI-powered products.
+🧠 Exploring DSA, Machine Learning and Software Engineering.
+🚀 Creator of projects like UniversalNav and Universal Car Hub.
+⚡ Love experimenting with new technologies and turning ideas into reality.
+🎯 Focused on becoming a better engineer, one project at a time.
 
 
 # 💻 Tech Stack:
