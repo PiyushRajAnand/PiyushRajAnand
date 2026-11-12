@@ -1,4 +1,4 @@
-👋 Hello there!
+👋 Hello there! \n
 I'm Piyush Raj Anand 💻, a Computer Science undergraduate at ITER, SOA University.
 I'm passionate about software development, problem-solving, and exploring the world of AI/ML. I enjoy building real-world applications, experimenting with new technologies, and turning ideas into something useful. 🚀
 🌱 Currently learning DSA, Machine Learning & System Design
